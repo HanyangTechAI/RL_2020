@@ -4,7 +4,7 @@
 **시간** : (2020.05.21) 19:00 - 20:30  
 **장소** : 미정  
 **주제** : Introduction to Reinforcement Learning with OpenAI Gym  
-**수업자료링크** : 링크 추가 바람
+**수업자료링크** : https://github.com/HanyangTechAI/RL_2020/tree/master/lab01_introduction_to_reinforcement_learning_with_openaI_gym
 ## 2회차
 **시간** : (2020.05.28) 19:00 - 20:30  
 **장소** : 미정  
